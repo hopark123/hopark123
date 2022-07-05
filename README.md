@@ -1,3 +1,7 @@
+Hello🙃 , I am a junior engineer dreaming of becoming a front-end developer.
+
+🌱 I learned development skills at 42Seoul
+
 <div align='center'>
 
 ## 🛠 Tech Skill
