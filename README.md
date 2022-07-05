@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Welcome!%20Ho%20Jun%20Park's%20Github&fontColor=FFFFFF&fontSize=20)
+
 Hello🙃 , I am a junior engineer dreaming of becoming a front-end developer.
 
 🌱 I learned development skills at 42Seoul
