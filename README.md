@@ -21,10 +21,3 @@ Hello🙃 , I am a junior engineer dreaming of becoming a front-end developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopark123&theme=monokai&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopark123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align='center'>
-
-### ✏  Baekjoon Solved
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=polkm789)](https://solved.ac/polkm789)
-
-</div>
